@@ -4,7 +4,7 @@ Regex is a powerful tool used for pattern matching and manipulation of text data
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The regex expression ^(\d{3}-\d{3}-\d{4}|\(\d{3}\) \d{3}-\d{4})$ validates phone numbers in the format "###-###-####" or "(###) ###-####". It uses anchors, grouping constructs, quantifiers, the OR operator, character escapes, and character classes to ensure the phone number matches one of the specified formats.
 
 ## Table of Contents
 
