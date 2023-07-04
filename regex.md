@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Regex - What are they and what do they mean?
 
-Introductory paragraph (replace this with your text)
+Regex is a powerful tool used for pattern matching and manipulation of text data. It provides a concise and flexible way to search, validate, and extract specific patterns from strings of characters. By constructing a regex pattern, you can define rules that describe the desired pattern you're looking for in a text. Regex finds applications in various fields, such as computer science, data analysis, text processing, and web development. Mastering regex can greatly improve your ability to efficiently work with and manipulate textual data, enabling you to solve complex problems related to patterns in a more effective manner.
 
 ## Summary
 
